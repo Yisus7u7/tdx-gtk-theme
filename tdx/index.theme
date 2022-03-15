@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=tdx
+Comment=A gtk theme for termux-desktop-xfce
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=tdx
+MetacityTheme=tdx
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=close,minimize,maximize:menu

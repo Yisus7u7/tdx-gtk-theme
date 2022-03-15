@@ -1,0 +1,20 @@
+control:
+    Package: tdx-gtk-theme
+    Version: 1.2.1
+    Architecture: all
+    Maintainer: Yisus7u7 <yisus7u7v@gmail.com>
+    Depends: gtk3, gtk2-engines-murrine
+    Homepage: https://github.com/Yisus7u7/tdx-gtk-theme
+    Description: A GTK+/4 theme for termux-desktop-xfce
+        
+installation_prefix: /data/data/com.termux/files/usr
+
+data_files:
+    share/themes/tdx:
+        source: tdx
+        
+    share/themes/tdx-light:
+        source: tdx-light
+        
+    share/themes/tdx-dark:
+        source: tdx-dark
