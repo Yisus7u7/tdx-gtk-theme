@@ -21,3 +21,7 @@ curl -LO https://github.com/Yisus7u7/tdx-gtk-theme/releases/download/tdx-1.2.1/t
 apt install ./tdx-gtk-theme_1.2.1_all.deb
 rm tdx-gtk-theme_1.2.1_all.deb
 ```
+
+## Credits
+
+- [vinceliuice](https://github.com/vinceliuice) I based myself on some of your themes! 
